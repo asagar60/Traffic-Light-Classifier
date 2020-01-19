@@ -4,6 +4,9 @@ In this project , Traffic lights have been classified (Red, Yellow , Green) usin
 ## Installing Dependencies
 * opencv  -  `pip install opencv-python `
 
+## Data
+Data is compressed and uploaded
+
 ## Sample from the data
 ![sample](images/all_lights.png) 
 
